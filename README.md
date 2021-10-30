@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irtiza Hussain
 - 👀 I’m interested in MongoDB, Node js, Express js and React with TypeScript and JavaScript
-- 🌱 I’m currently learning Data Science and Machine Learning
+- 🌱 I’m currently expanding my depth of the subject
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 Can reach out to me through my email address irtizahussain221@gmail.com
 
